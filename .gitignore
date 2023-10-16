@@ -1,0 +1,42 @@
+/changes
+/cache
+/upload
+/*_updated.php
+/upload/photos/2018
+/upload/photos/2017
+/upload/videos/
+/upload/sounds/
+/upload/photos/
+/nodejs/models/wo_langs.js
+
+/nodejs/config.json
+
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+.phpintel
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+# vagrant runtime
+/.vagrant
